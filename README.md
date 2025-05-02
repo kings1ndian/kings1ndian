@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kings1ndian
+- 👋 Hi, I’m Abhishek a graduate student at Northeastern University, Boston
 - 👀 I’m interested in developing webapps on cloud
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me https://www.linkedin.com/in/abhishek-kanakantty/
